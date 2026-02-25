@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "bin": "./bin/cli.js",
   "main": "src/index.ts",
-  "author": "",
+  "author": "camille",
   "description": "",
   "license": "MIT",
   "scripts": {
